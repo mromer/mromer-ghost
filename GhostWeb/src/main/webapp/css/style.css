@@ -1,0 +1,57 @@
+body {
+	font-family: Roboto, sans-serif;
+	background-color: #f2f2f2;
+}
+
+.content {
+	
+}
+
+.word {
+	display: inline-block;
+}
+
+.word_form {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.card_aux {
+	float: left;
+	height: 140px;
+	width: 1px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.card_human {
+	padding-top: 10px;
+	float: left;
+	background-color: #ffb740;
+	height: 130px;
+	width: 140px;
+	color: white;
+	font-size: 85px;
+	text-align: center;
+	margin: 8px;
+}
+
+.card_computer {
+	padding-top: 10px;
+	float: left;
+	background-color: #275dab;
+	height: 130px;
+	width: 140px;
+	color: white;
+	font-size: 85px;
+	text-align: center;
+	margin: 8px;
+}
+
+.button_send {
+	font-weight: bold;
+	padding: 8px;
+	margin: 10px;
+	background-color: #ffb740;
+	color: white;
+}

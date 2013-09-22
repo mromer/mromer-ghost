@@ -1,0 +1,32 @@
+DEBUG DictionaryManager - allWords.size() 43622
+DEBUG ComputerMovementManager - candidateWordsWins:[el]
+DEBUG ComputerMovementManager - candidateWordsLose:[]
+DEBUG ComputerMovementManager - candidateLetterWins:[e]
+DEBUG ComputerMovementManager - candidateLetterLose:[]
+DEBUG ComputerMovementManager - getRandomLetter result:e
+DEBUG ComputerMovementManager - findLetterWinner result:e
+DEBUG ComputerMovementManager - candidateWordsWins:[]
+DEBUG ComputerMovementManager - candidateWordsLose:[l]
+DEBUG ComputerMovementManager - candidateLetterWins:[]
+DEBUG ComputerMovementManager - candidateLetterLose:[l]
+DEBUG ComputerMovementManager - getRandomLetter result:null
+DEBUG ComputerMovementManager - findLetterWinner result:null
+DEBUG ComputerMovementManager - biggestWords: [l]
+DEBUG ComputerMovementManager - getRandomWord: l
+DEBUG ComputerMovementManager - candidateWordsWins:[avator, el, erpt, hequer, imer, ipient, iple, isable, itable, iton, itor, laim, lamation, lamatory, lave, ludabilities, ludability, lude, luding, lusion, lusive, lusivism, lusivist, lusivities, lusivity, ommunicate, ommunicating, ommunication, ommunicative, oriate, oriating, oriation, rement, rescence, rescencies, rescency, reta, rete, reting, retion, retory, ulpate, ulpating, ulpation, ulpatory, urrent, ursion, ursive, usable, usably]
+DEBUG ComputerMovementManager - candidateWordsLose:[avate, avating, avation, eed, ept, ess, hange, hanging, ide, iding, ise, ising, ision, itabilities, itability, itant, itation, itative, itatory, ite, iting, ludable, ludible, ogitate, ogitating, ogitation, ogitative, ommunicator, rescent, ruciate, ruciating, ruciation, ursus, usatory, use, using]
+DEBUG ComputerMovementManager - candidateLetterWins:[a, e, h, i, l, o, r, u]
+DEBUG ComputerMovementManager - candidateLetterLose:[a, e, h, i, l, o, r, u]
+DEBUG ComputerMovementManager - getRandomLetter result:null
+DEBUG ComputerMovementManager - findLetterWinner result:null
+DEBUG ComputerMovementManager - differentialCounterCharacters:{u=5, e=-1, r=5, a=-2, o=2, l=12, h=-1, i=-6}
+DEBUG ComputerMovementManager - winnerLettersResult:[l]
+DEBUG ComputerMovementManager - getRandomLetter result:l
+DEBUG ComputerMovementManager - candidateWordsWins:[]
+DEBUG ComputerMovementManager - candidateWordsLose:[mbo, n]
+DEBUG ComputerMovementManager - candidateLetterWins:[]
+DEBUG ComputerMovementManager - candidateLetterLose:[m, n]
+DEBUG ComputerMovementManager - getRandomLetter result:null
+DEBUG ComputerMovementManager - findLetterWinner result:null
+DEBUG ComputerMovementManager - biggestWords: [mbo]
+DEBUG ComputerMovementManager - getRandomWord: mbo
