@@ -8,6 +8,8 @@ import com.mromer.ghost.model.Dictionary;
 
 public class DictionaryManager {
 	
+	// Added feature 001
+	
 	private final static Logger logger = (Logger) LoggerFactory.getLogger(DictionaryManager.class);
 
 	private Dictionary dictionary;	
