@@ -12,8 +12,7 @@ public class DictionaryManager {
 
 	private Dictionary dictionary;	
 
-	public DictionaryManager() {
-		
+	public DictionaryManager() {		
 		
 		dictionary = new Dictionary();
 
