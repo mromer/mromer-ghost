@@ -10,6 +10,8 @@ public class DictionaryManager {
 	
 	// Added feature 001
 	// Release solve some bugs
+	// Added feature 002
+	// Release 2 solve some bugs
 	
 	private final static Logger logger = (Logger) LoggerFactory.getLogger(DictionaryManager.class);
 
